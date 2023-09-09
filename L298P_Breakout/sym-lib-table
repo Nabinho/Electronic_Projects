@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "L298P")(type "Legacy")(uri "${KIPRJMOD}/IC_STMicroelectronics_L298P/eec.lib")(options "")(descr ""))
+  (lib (name "IRF7424")(type "Legacy")(uri "${KIPRJMOD}/Trans_Infineon_IRF7424TRPBF/eec.lib")(options "")(descr ""))
+)
